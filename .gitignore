@@ -1,0 +1,9 @@
+.env
+.node_modules
+.package-lock.json
+.package.json
+.server.js
+.vscode
+.e-learning-platform@1.0.0
+.concurrently
+node_modules
