@@ -7,3 +7,17 @@
 .e-learning-platform@1.0.0
 .concurrently
 node_modules
+
+# Node.js
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Environment files
+.env.local
